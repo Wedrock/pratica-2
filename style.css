@@ -1,0 +1,35 @@
+.p1{
+    font-family: "Verdana";
+    font-size: 25px;
+    margin-bottom: 1em;
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    text-align: justify;
+  }
+  
+  .p2{
+    text-transform: lowercase;
+    text-decoration: line-through;
+    letter-spacing: 0.5px;
+    font-family: "Georgia";
+    font-size: 25px;
+    margin-bottom: 1em;
+    text-align: right;
+  }
+  
+  .php{
+    border: 1px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border: 5px, solid black;
+    border-top-color: green;
+    border-right-color: blue;
+    border-left-color: red;
+    border-bottom-color: green;
+    border-top-style: dashed;
+    border-bottom-style: dashed;
+  }
+ 
